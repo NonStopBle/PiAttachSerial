@@ -25,13 +25,22 @@ or
 
 Use my scripts :
 
-1.Before enable UARTS you can see only /dev/ttyAMA0 
+1.Before enabling UARTS you can see only /dev/ttyAMA0 
 
  ![alt text](https://i.imgur.com/Eb6KKW6.png)
 
 2.Select your UARTS (restart required)
 
  ![alt text](https://i.imgur.com/pDndKV4.png)
+ 
+3.After enabling UARTS you can see another ttyAMA
+
+ ![alt text](https://i.imgur.com/boxuh9u.png)
+ 
+4.Testing Sending & Receiving Serial Communication by ttyAMA
+
+ ![alt text](https://i.imgur.com/mRJm2lg.png)
+
  
 
 
