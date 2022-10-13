@@ -29,6 +29,12 @@ Use my scripts :
 
  ![alt text](https://i.imgur.com/Eb6KKW6.png)
 
+2.Select your UARTS (restart required)
+
+ ![alt text](https://i.imgur.com/pDndKV4.png)
+ 
+
+
 
 
 
