@@ -25,6 +25,9 @@ or
 
 Use my scripts :
 
+1.Before enable UARTS you can see only /dev/ttyAMA0 
+![alt text](https://i.imgur.com/Eb6KKW6.png)
+
 
 
 
