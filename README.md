@@ -26,7 +26,7 @@ or
 Use my scripts :  sudo PiAttachSerial.pyc  (not forget sudoo ~!!!)
 
 Requirement :
- - pip install serial
+ - pip install pyserial
 
 1.Before enabling UARTS you can see only /dev/ttyAMA0 
 
