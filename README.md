@@ -23,7 +23,10 @@ x is the number of your UARTs
 
 or
 
-Use my scripts :
+Use my scripts :  sudo PiAttachSerial.pyc  (not forget sudoo ~!!!)
+
+Requirement :
+ - pip install serial
 
 1.Before enabling UARTS you can see only /dev/ttyAMA0 
 
