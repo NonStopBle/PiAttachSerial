@@ -1,4 +1,4 @@
-I found how to fix UARTs of raspberry by using another UARTs of raspberry pi 4 because rpi4 has 6 UARTs port .
+**I found how to fix UARTs of raspberry by using another UARTs of raspberry pi 4 because rpi4 has 6 UARTs port .**
 
 Example :
 
@@ -23,7 +23,8 @@ x is the number of your UARTs
 
 or
 
-Use can use my python script to enable UARTs and testing serial communication : 
+Use my scripts :
+
 
 
 
