@@ -23,7 +23,7 @@ x is the number of your UARTs
 
 or
 
-Use my scripts :  sudo PiAttachSerial.pyc  (not forget sudoo ~!!!)
+Use my scripts :  sudo python3 attach_serial.py  (not forget sudoo ~!!!)
 
 Requirement :
  - pip install pyserial
