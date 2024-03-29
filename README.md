@@ -57,7 +57,6 @@ Question (What is path of UARTs):
  - /dev/ttyACM0 - /dev/ttyACM5
 
   [1]: https://pinout.xyz/pinout/uart
-  [2]: https://raspberrypi.stackexchange.com/questions/104464/where-are-%20the-uarts-on-the-raspberry-pi-4
+  [2]: https://raspberrypi.stackexchange.com/questions/104464/where-are-%20the-uarts-on-the-raspberry-pi-
 
-
-**************************************** DON"T USE IN UBUNTU SERVER THAT MAKE YOUR RASPBERRY PI RAINBOW DASH ****************************************
+**DON"T USE IN UBUNTU SERVER THAT MAKE YOUR RASPBERRY PI RAINBOW DASH**
